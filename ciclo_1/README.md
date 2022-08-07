@@ -1,5 +1,5 @@
-#Enunciado
-##Calculo del Salario
+# Enunciado
+## Calculo del Salario
 
 Un empleado de una compañía tiene dudas sobre si los pagos que le realiza la empresa de manera mensual son correctos. Con el propósito de aclarar sus inquietudes y verificar si los descuentos realizados son acordes a lo exigido por la ley, decide construir un programa en Python que le permita verificar el valor que debería ser pagado. Después de consultar sobre la normatividad colombiana y revisar con detalle su contrato laboral nota que debe tener en cuenta los siguientes aspectos:
 
@@ -22,8 +22,8 @@ Entrada	El programa recibirá 3 parámetros:
 Salida 	El programa debe imprimir el valor a pagar al empleado luego de realizar los descuentos de ley. El resultado debe imprimirse con un número decimal
 
 
-##Casos de prueba:
+## Casos de prueba:
 
-##Entrada	Salida Esperada
+## Entrada	Salida Esperada
 1000000 0 0	915000.0
 2355255 2 1	2290871.9
