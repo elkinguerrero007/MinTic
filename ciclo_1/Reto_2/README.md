@@ -23,10 +23,14 @@ Salida 	El programa imprimirá una línea indicando si el conductor debe ser mul
 
 
 
-Casos de prueba:
+## Casos de prueba:
 
 Entrada	Salida Esperada
+
 9165 110 300	OK
+
 9165 110 299	MULTA
+
 1000 -50 -100	ERROR
+
 12000 100 359	CURSO SENSIBILIZACION
