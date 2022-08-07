@@ -1,1 +1,1 @@
-# MinTic
+#MinTic-Universidad Sergio Arboleda
