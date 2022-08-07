@@ -22,14 +22,11 @@ Para detectar si una baldosa es diferente a otra, un sensor escanea las baldosas
 ## Casos de prueba:
 
 ## Entrada	Salida Esperada
-5 1
+### 5 1
+### 1 2 3 1 2	2 0 5
 
-1 2 3 1 2	2 0 5
-------**---------
-5 2
+### 5 2
+### 1 2 3 1 2	2 0 5
 
-1 2 3 1 2	2 0 5
-------**----------
-5 3
-
-1 2 3 1 2	2 2 5
+### 5 3
+### 1 2 3 1 2	2 2 5
