@@ -29,6 +29,8 @@ Por tal razón, le han encomendado a usted la selección de los diseños que cum
 235 145 250 45 895
 225 190 245 50 1050
 240 150 265 45 825 	NO DISPONIBLE
+
+
 6
 220 190 255 50 970
 255 155 235 55 1045
@@ -36,6 +38,8 @@ Por tal razón, le han encomendado a usted la selección de los diseños que cum
 285 165 270 45 1195
 300 190 230 55 890
 265 150 235 55 895	1195
+
+
 3
 270 165 275 40 1195
 275 180 230 50 1045
