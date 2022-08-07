@@ -33,7 +33,7 @@ Por tal razón, le han encomendado a usted la selección de los diseños que cum
 
 225 190 245 50 1050
 
-240 150 265 45 825 	NO DISPONIBLE
+240 150 265 45 825 	 salida NO DISPONIBLE
 
 
 6
@@ -47,7 +47,7 @@ Por tal razón, le han encomendado a usted la selección de los diseños que cum
 
 300 190 230 55 890
 
-265 150 235 55 895	1195
+265 150 235 55 895	 salida 1195
 
 
 3
@@ -56,4 +56,4 @@ Por tal razón, le han encomendado a usted la selección de los diseños que cum
 
 275 180 230 50 1045
 
-225 180 225 55 1120	1195
+225 180 225 55 1120	 salida 1195
