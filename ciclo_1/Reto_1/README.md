@@ -26,6 +26,6 @@ Luego de considerar toda esta información, el empleado decide construir un prog
 
 Entrada	Salida Esperada
 
-1000000 0 0	915000.0
+1000000 0 0	 salida 915000.0
 
-2355255 2 1	2290871.9
+2355255 2 1	 salida 2290871.9
