@@ -1,3 +1,4 @@
+# Ciclo For 2 
 # Enunciado
 Escriba un programa que solicite al usuario que introduzca el número de alumnos de una clase. A continuación, haciendo uso de un bucle, pedir la altura de cada uno de los alumnos. El programa debe mostrar: Número de alumnos con altura mayor a 1,80. Número de alumnos con altura menor a 1,80. El promedio de alturas de la clase.
 

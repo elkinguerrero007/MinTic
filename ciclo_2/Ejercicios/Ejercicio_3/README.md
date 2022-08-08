@@ -1,3 +1,4 @@
+# Cálculos aritméticos
 # Enunciado
 Escriba un programa que calcule áreas de triángulos. Para ello pedirá al usuario que introduzca la base y la altura y realizará el cálculo necesario para calcular el área, sabiendo que: Área = (base x altura) / 2
 

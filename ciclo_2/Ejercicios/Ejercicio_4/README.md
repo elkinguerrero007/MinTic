@@ -1,3 +1,4 @@
+# Condicionales 1
 # Enunciado
 Escribe un programa que pida al usuario un número y muestre por pantalla si es negativo y múltiplo de 3 o si no lo es.
 Dificultad

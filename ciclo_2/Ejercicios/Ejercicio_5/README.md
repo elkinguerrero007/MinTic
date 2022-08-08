@@ -1,3 +1,4 @@
+# Condicionales 2
 # Enunciado
 Escriba un programa que lea una nota numérica y devuelva la calificación a la que corresponde, sabiendo que:
 

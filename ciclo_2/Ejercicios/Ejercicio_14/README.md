@@ -1,0 +1,6 @@
+# Arreglos 2
+# Enunciado
+Contexto: la información académica de los alumnos de una determinada asignatura se encuentra almacenada en una matriz. Cada fila de la matriz guarda las notas de un alumno. La primera posición indica el nombre del alumno, las dos siguientes la nota de los exámenes de teoría y el siguiente la nota del examen de prácticas. La nota final se calcula de la siguiente forma: NF = Teoría 40% + Práctica 60% Escriba un programa en el que definas una matriz como la anterior y muestre para cada alumno si ha aprobado o suspendido la asignatura.
+
+# Instrucciones
+El programa debe nombrarse igual que la clase principal. La clase principal debe tener una forma para crear una matriz. Los nombres y notas de los estudiantes se guardan desde el código. El rango de notas es entre 0 y 10. Una vez guardada la información en la matriz, se debe recorrer la matriz para hacer los cálculos correspondientes a los valores porcentuales de las notas. Por último se debe imprimir por consola el resultado de la computación de las notas. Un alumno aprueba si la nota es mayor o igual que 5.

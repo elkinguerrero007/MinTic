@@ -1,3 +1,4 @@
+# Condicionales 3
 # Enunciado
 Escriba un programa que pregunte por el precio de un producto y el número de unidades que se desea comprar. A partir de esos datos, es necesario calcular el precio final, sabiendo que se aplica un descuento según los siguientes condicionantes: Si el costo de la compra es menor de 100, el cliente no tiene derecho a descuento. Si el costo de la compra sobrepasa 200, el descuento será del 15%. En cualquier otro caso, el descuento será del 10%.
 
