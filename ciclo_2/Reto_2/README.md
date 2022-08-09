@@ -50,10 +50,10 @@ Para evitar errores a la hora de agregar, actualizar y borrar productos, se debe
 >> * Casos de prueba:
 >> * Entrada
 >> * AGREGAR
->> * 11 Melon 70 13
+>> * 11 Melon 70 13 >> * salida 1015010.0
 >> * BORRAR
->> * 10 Jamon 15000 10
+>> * 10 Jamon 15000 10 >> * salida 864100.0
 >> * ACTUALIZAR
->> * 7 Helado 65000 11
+>> * 7 Helado 65000 11 >> * salida 1544600.0
 >> * BORRAR
->> * 14 Maiz 45000 12
+>> * 14 Maiz 45000 12 >> * salida ERROR
