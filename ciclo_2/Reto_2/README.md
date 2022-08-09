@@ -39,3 +39,21 @@ Para evitar errores a la hora de agregar, actualizar y borrar productos, se debe
     La segunda línea estará formada por 4 valores (código, nombre, precio, inventario) que representan el producto sobre el cual se quiere realizar la operación.
     En el caso de la operación ACTUALIZAR la segunda línea debe contener el código y los nuevos valores del producto
     En el caso de la operación BORRAR se deben especificar todos los atributos del producto a eliminar
+    
+    >> * Salida 	La salida estará representada por una única línea formada por un único valor:
+
+        Valor del inventario
+    Este valor debe imprimirse después de realizar las operaciones solicitadas en la entrada de datos.
+    El valor del inventario debe imprimirse con un número decimal
+    En caso de solicitar ACTUALIZAR o BORRAR un producto que no existe (es decir, que el código del producto no se encuentra en la base de datos), se debe imprimir 'ERROR'
+    En caso de solicitar AGREGAR un producto cuyo código ya existe en la base de datos se debe imprimir 'ERROR'
+>> * Casos de prueba:
+>> * Entrada	Salida Esperada
+AGREGAR
+11 Melon 70 13	1015010.0
+BORRAR
+10 Jamon 15000 10	864100.0
+ACTUALIZAR
+7 Helado 65000 11	1544600.0
+BORRAR
+14 Maiz 45000 12	ERROR
