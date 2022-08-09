@@ -18,3 +18,8 @@ Debido a que se requiere analizar la información de varias personas, la mejor a
 >> * Como: Usuario
 >> * Quiero:Ingresar los valires de masa,altura y edad
 >> * Para : Poder calcular el IMC
+#### Criterios de aceptacion
+>> * Los valores de masa deben ingresarse en kilogramos
+>> * Los valores de altura deben ingresarse en metros
+>> * Los valores de edad deben ingresarce en años
+>> * Los valores de peso,altura y edad deben ingresarse en una sola linea separada por un espacio
