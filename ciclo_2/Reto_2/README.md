@@ -49,11 +49,11 @@ Para evitar errores a la hora de agregar, actualizar y borrar productos, se debe
     En caso de solicitar AGREGAR un producto cuyo código ya existe en la base de datos se debe imprimir 'ERROR'
 >> * Casos de prueba:
 >> * Entrada
->> >> * AGREGAR
-11 Melon 70 13
+>> * AGREGAR
+>> * 11 Melon 70 13
 >> * BORRAR
-10 Jamon 15000 10
+>> * 10 Jamon 15000 10
 >> * ACTUALIZAR
-7 Helado 65000 11
+>> * 7 Helado 65000 11
 >> * BORRAR
-14 Maiz 45000 12
+>> * 14 Maiz 45000 12
