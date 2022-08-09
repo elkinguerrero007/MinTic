@@ -29,3 +29,13 @@ Por ejemplo, al generar el informe con los datos disponibles en la Tabla 1 obten
     Valor del inventario: 1014100.0
 
 Para evitar errores a la hora de agregar, actualizar y borrar productos, se debe implementar un método llamado verificarExistencia que permitirá comprobar si el producto existe o no en la base de datos. Este método debe implementarse en la clase BaseDatosProductos.
+
+>> * Entrada	Cada uno de los casos de prueba estará compuesto por dos líneas.
+
+    La primera línea estará formada por una cadena de texto que identifica la operación a realizar. En este caso, las operaciones válidas son:
+        ACTUALIZAR
+        BORRAR
+        AGREGAR
+    La segunda línea estará formada por 4 valores (código, nombre, precio, inventario) que representan el producto sobre el cual se quiere realizar la operación.
+    En el caso de la operación ACTUALIZAR la segunda línea debe contener el código y los nuevos valores del producto
+    En el caso de la operación BORRAR se deben especificar todos los atributos del producto a eliminar
