@@ -56,4 +56,28 @@ Con el fin de verificar el correcto funcionamiento de la base de datos, usted de
 | [](./c) |            |
 | [console.py](https://github.com/Juansepo13/AirBnB_clone/blob/master/console.py)  | Interactive console|
 | [](./)  |            |
+| File                 | Details                                    |
+|--------------------- | ------------------------------------------ |
+| [AUTHORS](https://github.com/Juansepo13/AirBnB_clone/blob/master/AUTHORS) | This file lists all individuals having contributed content to the repository |
+| [README.md](https://github.com/Juansepo13/AirBnB_clone/blob/master/README.md) | README file with description for AirBnb project |
+| [](./c) |            |
+| [console.py](https://github.com/Juansepo13/AirBnB_clone/blob/master/console.py)  | Interactive console|
+| [](./)  |            |
+| File                 | Details                                    |
+|--------------------- | ------------------------------------------ |
+| [AUTHORS](https://github.com/Juansepo13/AirBnB_clone/blob/master/AUTHORS) | This file lists all individuals having contributed content to the repository |
+| [README.md](https://github.com/Juansepo13/AirBnB_clone/blob/master/README.md) | README file with description for AirBnb project |
+| [](./c) |            |
+| [console.py](https://github.com/Juansepo13/AirBnB_clone/blob/master/console.py)  | Interactive console|
+| [](./)  |            |
+| File                 | Details                                    |
+|--------------------- | ------------------------------------------ |
+| [AUTHORS](https://github.com/Juansepo13/AirBnB_clone/blob/master/AUTHORS) | This file lists all individuals having contributed content to the repository |
+| [README.md](https://github.com/Juansepo13/AirBnB_clone/blob/master/README.md) | README file with description for AirBnb project |
+| [](./c) |            |
+| [console.py](https://github.com/Juansepo13/AirBnB_clone/blob/master/console.py)  | Interactive console|
+| [](./)  |            |
+
+
+
 
