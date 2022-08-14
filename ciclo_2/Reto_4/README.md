@@ -61,9 +61,4 @@ Con el fin de verificar el correcto funcionamiento de la base de datos, usted de
 |         |           |
 |         |           |
 | [](./c) |           |
-|         |           |
-| [](./)  |           |
-|         | Details   |
-|--------------------- | ------------------------------------------ |
-
 
