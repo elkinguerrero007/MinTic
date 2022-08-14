@@ -48,3 +48,12 @@ Con el fin de verificar el correcto funcionamiento de la base de datos, usted de
 >> * 4. Obtener el numero total de productos cuyos precios están entre 3000 y 10000. Utilice el alias 'total' para la respuesta obtenida.
 
 >> * 5. Obtener valor total del inventario. Este valor se obtiene multiplicando el precio de cada producto por el inventario disponible y luego sumando todos los resultados. Utilice el alias 'total_inventario' para la respuesta obtenida.
+
+| File                 | Details                                    |
+|--------------------- | ------------------------------------------ |
+| [AUTHORS](https://github.com/Juansepo13/AirBnB_clone/blob/master/AUTHORS) | This file lists all individuals having contributed content to the repository |
+| [README.md](https://github.com/Juansepo13/AirBnB_clone/blob/master/README.md) | README file with description for AirBnb project |
+| [](./c) |            |
+| [console.py](https://github.com/Juansepo13/AirBnB_clone/blob/master/console.py)  | Interactive console|
+| [](./)  |            |
+
