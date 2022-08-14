@@ -9,18 +9,18 @@ Una de las cafeterías de la Sergio Arboleda vende frutas, dulces y algunas bebi
 Tabla: Productos.
 
 ### Tabla 1: productos.
-| File                 | Details                                    |  precio| valor |
-|--------------------- | ------------------------------------------ | ------ | ----- |
-|                      |                                            |        |       |
-|                      |                                            |        |       |
-|                      |                                            |        |       |
-|                      |                                            |        |       |
-|                      |                                            |        |       |
-|                      |                                            |        |       |
-|                      |                                            |        |       |
-|                      |                                            |        |       |
-|                      |                                            |        |       |
-|                      |                                            |        |       |
+| Codigo                 | Nombre                                    |  precio| Inventario |
+|--------------------- | ------------------------------------------- | ------ | ---------- |
+| 1                    |                                            |        |       |
+| 2                    |                                            |        |       |
+| 3                    |                                            |        |       |
+| 4                    |                                            |        |       |
+| 5                    |                                            |        |       |
+| 6                    |                                            |        |       |
+| 7                    |                                            |        |       |
+| 8                    |                                            |        |       |
+| 9                    |                                            |        |       |
+| 10                   |                                            |        |       |
 
 Con el fin de verificar el correcto funcionamiento de la base de datos, usted debe construir consultas SQL para obtener la siguiente información. (NOTA: Para este caso solo se utilizará consultas de tipo SELECT).
 
@@ -33,16 +33,3 @@ Con el fin de verificar el correcto funcionamiento de la base de datos, usted de
 >> * 4. Obtener el numero total de productos cuyos precios están entre 3000 y 10000. Utilice el alias 'total' para la respuesta obtenida.
 
 >> * 5. Obtener valor total del inventario. Este valor se obtiene multiplicando el precio de cada producto por el inventario disponible y luego sumando todos los resultados. Utilice el alias 'total_inventario' para la respuesta obtenida.
-
-| File                 | Details                                    |  precio| valor |
-|--------------------- | ------------------------------------------ | ------ | ----- |
-|                      |                                            |        |       |
-|                      |                                            |        |       |
-|                      |                                            |        |       |
-|                      |                                            |        |       |
-|                      |                                            |        |       |
-|                      |                                            |        |       |
-|                      |                                            |        |       |
-|                      |                                            |        |       |
-|                      |                                            |        |       |
-|                      |                                            |        |       |
