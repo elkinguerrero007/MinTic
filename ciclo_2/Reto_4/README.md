@@ -50,6 +50,6 @@ Con el fin de verificar el correcto funcionamiento de la base de datos, usted de
 >> * 5. Obtener valor total del inventario. Este valor se obtiene multiplicando el precio de cada producto por el inventario disponible y luego sumando todos los resultados. Utilice el alias 'total_inventario' para la respuesta obtenida.
 
 | File                 | Details                                    |  precio| valor |
-|--------------------- | ------------------------------------------------------------|
+|--------------------- | ------------------------------------------ | ------ | ----- |
 |                      |                                            |        |       |
 |                      |                                            |        |       |
