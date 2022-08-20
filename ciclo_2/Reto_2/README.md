@@ -57,3 +57,14 @@ Para evitar errores a la hora de agregar, actualizar y borrar productos, se debe
 >> * 7 Helado 65000 11 >> * salida 1544600.0
 >> * BORRAR
 >> * 14 Maiz 45000 12 >> * salida ERROR
+
+| Entrada              |   Salida esperada      |
+| -------------------- | ---------------------- |
+| AGREGAR              |       1015010.0        |
+| 11 Melon 70 13       |                        |
+| BORRAR               |       864100.0         |
+| 10 jamon 15000 10    |                        |
+| ACTUALIZAR           |       1544600.0        |
+| 7 Helado 65000 11    |                        |
+| BORRAR               |        ERROR           |
+| 14 Maiz 45000        |                        |
