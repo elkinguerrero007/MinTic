@@ -67,5 +67,4 @@ La salida estará representada por una única línea formada por tres valores se
 | ACTUALIZAR           |Helado Galletas 10950.0                      |
 | 7 Helado 65000 11    |                                             |
 | BORRAR               |               ERROR                         |
-| 1                    |               Manzanas                      |
-| -------------------- | ------------------------------------------- |
+| 14 Maiz 45000        |                                             |
