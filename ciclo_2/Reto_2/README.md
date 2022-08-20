@@ -48,15 +48,6 @@ Para evitar errores a la hora de agregar, actualizar y borrar productos, se debe
     En caso de solicitar ACTUALIZAR o BORRAR un producto que no existe (es decir, que el código del producto no se encuentra en la base de datos), se debe imprimir 'ERROR'
     En caso de solicitar AGREGAR un producto cuyo código ya existe en la base de datos se debe imprimir 'ERROR'
 >> * Casos de prueba:
->> * Entrada
->> * AGREGAR
->> * 11 Melon 70 13 >> * salida 1015010.0
->> * BORRAR
->> * 10 Jamon 15000 10 >> * salida 864100.0
->> * ACTUALIZAR
->> * 7 Helado 65000 11 >> * salida 1544600.0
->> * BORRAR
->> * 14 Maiz 45000 12 >> * salida ERROR
 
 | Entrada              |   Salida esperada      |
 | -------------------- | ---------------------- |
