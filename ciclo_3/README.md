@@ -1,2 +1,3 @@
 # Ciclo3
-[diplomado](https://github.com/elkinguerrero007/MinTic/files/9843400/14837020.1.pdf)
+
+![Gif_Oracle](https://user-images.githubusercontent.com/85587286/197316317-c1ebf8c9-a6f1-44b2-84be-79f0dd57dda9.gif)
